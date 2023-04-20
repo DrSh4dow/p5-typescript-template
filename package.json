@@ -1,0 +1,20 @@
+{
+  "name": "uol-intro-programming",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.12",
+    "@types/p5": "^1.6.1",
+    "typescript": "^5.0.2",
+    "vite": "^4.3.0"
+  },
+  "dependencies": {
+    "p5": "^1.6.0"
+  }
+}
